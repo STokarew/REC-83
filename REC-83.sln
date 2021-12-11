@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REC-83", "REC-83\REC-83.csproj", "{F59850F1-C32E-4434-8E27-8B1CC3FF2106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59850F1-C32E-4434-8E27-8B1CC3FF2106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59850F1-C32E-4434-8E27-8B1CC3FF2106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59850F1-C32E-4434-8E27-8B1CC3FF2106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59850F1-C32E-4434-8E27-8B1CC3FF2106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7C2F90-A5E4-4D68-8C2F-42335C3DEE7C}
+	EndGlobalSection
+EndGlobal
